@@ -35,7 +35,11 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Web Screenshot
+### First ScreenShot
 ![image](tinder-clone/screenshots/print1.png)
+
+### Second ScreenShot
+![image](tinder-clone/screenshots/print2.png)
 
 
 ## BackEnd
