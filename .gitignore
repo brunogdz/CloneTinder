@@ -1,0 +1,48 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/tinder-backend/node_modules
+/tinder-clone/node_modules
+/tinder-backend/.pnp
+/tinder-backend.pnp.js
+
+# testing
+/tinder-backend/coverage
+
+# production
+/tinder-backend/build
+
+# misc
+/tinder-backend/.DS_Store
+/tinder-backend/.env.local
+/tinder-backend/.env.development.local
+/tinder-backend/.env.test.local
+/tinder-backend/.env.production.local
+
+/tinder-backend/npm-debug.log*
+/tinder-backend/yarn-debug.log*
+/tinder-backend/yarn-error.log*
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/tinder-clone/node_modules
+/tinder-clone/.pnp
+/tinder-clone/.pnp.js
+
+# testing
+/tinder-clone/coverage
+
+# production
+/build
+
+# misc
+/tinder-clone/.DS_Store
+/tinder-clone/.env.local
+/tinder-clone/.env.development.local
+/tinder-clone/.env.test.local
+.env.production.local
+
+/tinder-clone/npm-debug.log*
+/tinder-clone/yarn-debug.log*
+/tinder-clone/yarn-error.log*
