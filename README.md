@@ -1,3 +1,9 @@
+# This project I am doing in live
+
+### Fazendo tinder aprendendo MongoDB (Parte 2)
+
+[Twitch](https://www.twitch.tv/dmitritv)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
