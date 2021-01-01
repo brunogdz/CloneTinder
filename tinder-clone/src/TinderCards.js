@@ -9,9 +9,15 @@ function TinderCards() {
 
     useEffect(() => {
         async function fetchData() {
-            const req = await axios.get('')
+            const req = await axios.get('/tinder/cards');
+
+            setPeople(req.data);
+
+ 
         }
-    }, [name])
+        fetchData();
+           
+    }, []);
     // [
     //     {
     //         name: "Bruno Gomes",
